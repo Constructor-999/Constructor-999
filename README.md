@@ -6,4 +6,4 @@ I know:
 - JS/HTML/CSS
 - Java/Kotlin
 
-Repository for my goofy AIs: [J0HN AI](https://github.com/J0HN-AI)
+Repository for my silly AIs: [J0HN AI](https://github.com/J0HN-AI)
